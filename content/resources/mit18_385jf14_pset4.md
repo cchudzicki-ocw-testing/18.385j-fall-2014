@@ -4,7 +4,12 @@ description: This is a file that contains information regarding nonlinear dynami
   and chaos problem set 4.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/2abec9e7fb6021a85d532d736f16b531_MIT18_385JF14_Pset4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Nonlinear Dynamics and Chaos, Assignment 4
+type: OCWFile
 uid: 2abec9e7-fb60-21a8-5d53-2d736f16b531
 ---
