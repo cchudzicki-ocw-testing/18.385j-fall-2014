@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Nonlinear Dynamics and Chaos, Tricky asymptotics fixed point notes
-type: OCWFile
 uid: 252b9c04-1914-0785-7f47-1f018a6487f8
 ---

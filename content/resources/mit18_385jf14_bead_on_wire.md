@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Nonlinear Dynamics and Chaos, Bead moving along a thin, rigid wire
-type: OCWFile
 uid: f583bdda-09b4-571a-846b-eac29edf8297
 ---

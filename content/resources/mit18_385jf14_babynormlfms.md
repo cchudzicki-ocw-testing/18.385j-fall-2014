@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Nonlinear Dynamics and Chaos, Bifurcations: Baby Normal Forms'
-type: OCWFile
 uid: 068224e6-07b5-dcde-1629-732a987ec9f2
 ---

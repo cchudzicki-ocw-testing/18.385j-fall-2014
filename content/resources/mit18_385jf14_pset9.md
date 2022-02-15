@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Nonlinear Dynamics and Chaos, Assignment 9
-type: OCWFile
 uid: 8e6df6a9-1f82-3c49-ca5a-b2e18bf912bb
 ---

@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: Toolkit_for_18385.tar
-type: OCWFile
 uid: 1a1e6458-f8eb-e306-b8be-392b5bca879b
 ---
