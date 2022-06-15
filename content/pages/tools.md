@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on using MATLAB for the course and
+  a downloadable MATLAB toolkit.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
