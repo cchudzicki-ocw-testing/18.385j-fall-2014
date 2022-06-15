@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description, an outline of
+  course topics, and information on meeting times, prerequisites, the textbook, references,
+  problem sets, exams, the term paper, and grading.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

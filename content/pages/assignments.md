@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the 10 problem sets assigned for the course and
+  information on policies for assignments.
 draft: false
 learning_resource_types:
 - Assignments
